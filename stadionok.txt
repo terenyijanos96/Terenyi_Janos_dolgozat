@@ -1,0 +1,41 @@
+stadion;város;csapatok száma;elsõ mérkõzés;utolsó mérkõzés
+Capitoline Grounds;Brooklyn;1;1872-05-06;1872-10-31
+Citi Field;New York;6;2009-04-13;2014-09-28
+Culver Field I;Rochester;1;1890-04-28;1890-10-04
+Culver Field II;Rochester;1;1898-08-27;1898-08-29
+Eastern Park;Brooklyn;8;1890-04-28;1897-10-02
+Ebbets Field;Brooklyn;45;1913-04-09;1957-09-24
+Grauer's Ridgewood Park;Queens;1;1886-05-02;1886-09-19
+Haymakers' Grounds;Troy;4;1871-05-09;1881-09-30
+Hilltop Park;New York;11;1903-04-30;1912-10-05
+International Fair Association Grounds;Buffalo;2;1914-05-11;1915-09-08
+Iron Pier;Syracuse;1;1890-08-03;1890-08-03
+Long Island Grounds;Maspeth;1;1890-07-27;1890-08-03
+Maple Avenue Driving Park;Elmira;1;1885-10-10;1885-10-10
+Metropolitan Park;New York;1;1884-05-13;1884-08-23
+Olympic Park I;Buffalo;2;1884-05-21;1885-10-07
+Olympic Park II;Buffalo;1;1890-04-19;1890-10-04
+Ontario Beach Grounds;Rochester;1;1898-08-28;1898-08-28
+Polo Grounds I (Southeast Diamond);New York;9;1883-05-01;1888-10-13
+Polo Grounds II (Southwest Diamond);New York;1;1883-05-30;1883-09-04
+Polo Grounds III;New York;3;1889-07-08;1890-09-13
+Polo Grounds IV;New York;22;1890-04-19;1911-04-13
+Polo Grounds V;New York;60;1911-06-28;1963-09-18
+Putnam Grounds;Troy;1;1879-05-28;1879-09-20
+Riverside Grounds;Buffalo;5;1879-05-01;1883-09-08
+Riverside Park;Albany;3;1880-09-11;1882-05-30
+Shea Stadium;New York;48;1964-04-17;2008-09-28
+St. George Cricket Grounds;New York;3;1886-04-22;1889-06-14
+Star Park I;Syracuse;1;1879-05-28;1879-09-10
+Star Park II;Syracuse;1;1890-04-28;1890-10-04
+Three Rivers Park;Three Rivers;1;1890-05-18;1890-07-20
+Troy Ball Club Grounds;Watervliet;1;1882-05-20;1882-08-26
+Union Grounds;Brooklyn;16;1871-05-25;1878-07-26
+Wallace's Ridgewood Park;Queens;4;1887-04-24;1890-06-08
+Washington Park I;Brooklyn;8;1884-05-05;1889-05-04
+Washington Park II;Brooklyn;2;1889-05-30;1890-10-03
+Washington Park III;Brooklyn;15;1898-04-30;1912-10-05
+Washington Park IV;Brooklyn;2;1914-05-11;1915-09-30
+Windsor Beach;Irondequoit;1;1890-05-11;1890-07-20
+Yankee Stadium I;New York;84;1923-04-18;2008-09-21
+Yankee Stadium II;New York;6;2009-04-16;2014-09-25
